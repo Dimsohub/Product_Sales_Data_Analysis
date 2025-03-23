@@ -38,3 +38,16 @@ Based on the dashboard visualizations, the following key findings can be observe
 - Product segments contribute differently to overall sales, indicating the importance of focusing on high-performing segments.
 - Regional sales variations highlight the need for tailored strategies in different markets.
 - There is a visible correlation between the discounts, sales and profit of the products.
+
+  ## Links:
+
+- [Looker Studio Report](https://lookerstudio.google.com/reporting/ef36342e-b2e7-4e76-b548-061b72e83720)
+- [Dataset](path/to/dataset.csv)
+- [Google Sheets](path/to/sheets.xlsx)
+
+## Files to Include:
+
+- Looker Studio Report (JSON or PDF)
+- Dataset (CSV or Excel)
+- README.md
+- Google Sheets (if applicable)
