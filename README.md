@@ -12,7 +12,8 @@ This project focuses on analyzing product sales data to gain insights into key b
 ## Tools and Technologies:
 
 - Looker Studio: Used for data visualization and dashboard creation.
-- Microsoft Sample Dataset: The source dataset for sales data. https://learn.microsoft.com/en-us/power-bi/create-reports/sample-financial-download
+- Microsoft Sample Dataset: The source dataset for sales data.
+  https://learn.microsoft.com/en-us/power-bi/create-reports/sample-financial-download
 - Google Sheets: Used for data preprocessing and calculation of moving averages.
 
 ## Dashboard Components:
