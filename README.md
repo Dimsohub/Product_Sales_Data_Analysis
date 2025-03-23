@@ -42,8 +42,8 @@ Based on the dashboard visualizations, the following key findings can be observe
   ## Links:
 
 - [Looker Studio Report](https://lookerstudio.google.com/reporting/ef36342e-b2e7-4e76-b548-061b72e83720)
-- [Dataset](path/to/dataset.csv)
-- [Google Sheets](path/to/sheets.xlsx)
+- [Dataset]([path/to/dataset.csv](https://learn.microsoft.com/en-us/power-bi/create-reports/sample-financial-download))
+- [Google Sheets]([path/to/sheets.xlsx](https://docs.google.com/spreadsheets/d/1vcdmq8EzuWcrTrhcRMje7tiS7nL4_MWJvZrG1f0HcR4/edit?usp=sharing))
 
 ## Files to Include:
 
