@@ -47,7 +47,7 @@ Based on the dashboard visualizations, the following key findings can be observe
 
 ## Files to Include:
 
-- Looker Studio Report (JSON or PDF)
-- Dataset (CSV or Excel)
+- Looker Studio Report (PDF)
+- Dataset
 - README.md
-- Google Sheets (if applicable)
+
